@@ -29,7 +29,7 @@ public class StartSceneScript : MonoBehaviour {
             case 1:
                 //Bridge implementation
                 msg+=  "Hello! in this demo we will show you how to use the RAGE competence asset pack. First, you have to download the newest version from our ";
-                msg += "repository (https://github.com/RAGE-TUGraz/CompetenceBasedAssets). Please note, that each RAGE asset might depend on other RAGE assets (base assets). This ";
+                msg += "repository (https://github.com/RAGE-TUGraz/CompetenceBasedAssets) or the ones used in this demo game (Version 01.10.2017). Please note, that each RAGE asset might depend on other RAGE assets (base assets). This ";
                 msg += "information is available from the developer (mmaurer@tugraz.at for TU Graz assets) directly. Later on this information will be presented uniformly in the RAGE ecosystem.";
                 break;
             case 2:
