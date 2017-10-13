@@ -56,6 +56,7 @@ public class GamesituationLoadingScript : MonoBehaviour {
 
         text.text = message;
     }
+    
 
     private void LoadEndScene()
     {

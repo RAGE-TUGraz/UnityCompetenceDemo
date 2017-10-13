@@ -112,6 +112,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Bridge.cs" />
+    <Compile Include="Assets\Scripts\DomainModelChangerScript.cs" />
     <Compile Include="Assets\Scripts\EndSceneScript.cs" />
     <Compile Include="Assets\Scripts\GamesituationLoadingScript.cs" />
     <Compile Include="Assets\Scripts\StartSceneScript.cs" />
@@ -119,7 +120,10 @@
   <ItemGroup>
     <None Include="Assets\RAGE\IDataStorageFolder\CompetenceAssessmentAsset_default_&amp;addition&amp;difference&amp;divide&amp;multiply&amp;sort&amp;subtraction.xml" />
     <None Include="Assets\RAGE\IDataStorageFolder\CompetenceAssessmentAsset_default_&amp;addition&amp;difference&amp;divide&amp;multiply&amp;sort&amp;subtraction_structure.xml" />
+    <None Include="Assets\RAGE\IDataStorageFolder\CompetenceAssessmentAsset_default_&amp;addition2&amp;difference2&amp;divide2&amp;multiply2&amp;sort2&amp;subtraction2.xml" />
+    <None Include="Assets\RAGE\IDataStorageFolder\CompetenceAssessmentAsset_default_&amp;addition2&amp;difference2&amp;divide2&amp;multiply2&amp;sort2&amp;subtraction2_structure.xml" />
     <None Include="Assets\RAGE\IDataStorageFolder\DomainModel.xml" />
+    <None Include="Assets\RAGE\IDataStorageFolder\DomainModel2.xml" />
     <None Include="Assets\RAGE\IDataStorageFolder\GameStorageClientAssetSettings.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
